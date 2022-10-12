@@ -20,8 +20,8 @@
   
   $contact->smtp = array(
     'host' => 'imdeepakyadav.me',
-    'username' => 'admin',
-    'password' => 'pass',
+    'username' => 'imdeepakyadav',
+    'password' => 'Deepak@1101#',
     'port' => '587'
   );
   
