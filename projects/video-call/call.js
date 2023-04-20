@@ -9,23 +9,10 @@ remoteVideo.onplaying = () => { remoteVideo.style.opacity = 1 }
 
 let peer
 function init(userId) {
-    var peer = new Peer(userId, {
-//         host: 'localhost',
+    peer = new Peer(userId, {
+//         host: '192.168.43.242',
         port: 443,
-        path: '/',
-    })
-
-    // peer = new Peer(userId, {
-    //     host: '52.66.46.111',
-    //     port: 9000,
-    //     path: '/dreamdating',
-    // })
-
-    peer.on('open', () => {
-        console.log('My peer ID is: ' + id)
-        //Call when we code in Android
-        // document.getElementById("my-id").innerHTML = peer.id
-        
+        path: '/'
     })
 
     listen()
@@ -34,12 +21,12 @@ function init(userId) {
 let localStream
 function listen() {
     peer.on('call', (call) => {
-        
+
         navigator.getUserMedia({
             audio: true, 
-            video: true 
-        }, (stream) =>{
-            localVideo.scrObject = stream
+            video: true
+        }, (stream) => {
+            localVideo.srcObject = stream
             localStream = stream
 
             call.answer(stream)
@@ -47,17 +34,21 @@ function listen() {
                 remoteVideo.srcObject = remoteStream
 
                 remoteVideo.className = "primary-video"
-                localStream.className = "secondary-video"
+                localVideo.className = "secondary-video"
+
             })
+
         })
+        
     })
 }
 
-function startCall(otherUserId){
+function startCall(otherUserId) {
     navigator.getUserMedia({
         audio: true,
         video: true
-    }, (stream) =>{
+    }, (stream) => {
+
         localVideo.srcObject = stream
         localStream = stream
 
@@ -66,25 +57,24 @@ function startCall(otherUserId){
             remoteVideo.srcObject = remoteStream
 
             remoteVideo.className = "primary-video"
-            localStream.className = "secondary-video"
+            localVideo.className = "secondary-video"
         })
 
     })
-
 }
+
 function toggleVideo(b) {
-    if(b == "true"){
+    if (b == "true") {
         localStream.getVideoTracks()[0].enabled = true
-    }else{
+    } else {
         localStream.getVideoTracks()[0].enabled = false
     }
+} 
 
-}
 function toggleAudio(b) {
-    if(b == "true"){
+    if (b == "true") {
         localStream.getAudioTracks()[0].enabled = true
-    }else{
+    } else {
         localStream.getAudioTracks()[0].enabled = false
     }
-
-}
+} 
