@@ -439,51 +439,51 @@
       "search_url": "https://www.amazon.in/s?k="
     }
   ],
-  "ad_setting": [
+   "ad_setting": [
     {
-      "ad_unit": "ca-app-pub-3940256099942544/9257395921",
+      "ad_unit": "ca-app-pub-4189571788079554/5994820521",
       "ad_type": "AppOpen",
       "ad_network": "admob",
       "ad_priority": "0",
       "ad_counter": ""
     },
     {
-      "ad_unit": "ca-app-pub-3940256099942544/1033173712",
+      "ad_unit": "ca-app-pub-4189571788079554/8213590068",
       "ad_type": "Interstitial",
       "ad_network": "admob",
       "ad_priority": "0",
       "ad_counter": "1"
     },
     {
-      "ad_unit": "ca-app-pub-3940256099942544/2247696110",
+      "ad_unit": "ca-app-pub-4189571788079554/9335100040",
       "ad_type": "Native",
       "ad_network": "admob",
       "ad_priority": "0",
       "ad_counter": ""
     },
     {
-      "ad_unit": "ca-app-pub-3940256099942544/9214589741",
+      "ad_unit": "ca-app-pub-4189571788079554/7092080081",
       "ad_type": "Banner",
       "ad_network": "admob",
       "ad_priority": "0",
       "ad_counter": ""
     },
     {
-      "ad_unit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "ad_unit": "1237186267607976_1237187490941187",
       "ad_type": "Interstitial",
       "ad_network": "meta",
       "ad_priority": "0",
       "ad_counter": "1"
     },
     {
-      "ad_unit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "ad_unit": "1237186267607976_1237187597607843",
       "ad_type": "Native",
       "ad_network": "meta",
       "ad_priority": "0",
       "ad_counter": ""
     },
     {
-      "ad_unit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "ad_unit": "1237186267607976_1237187344274535",
       "ad_type": "Banner",
       "ad_network": "meta",
       "ad_priority": "0",
