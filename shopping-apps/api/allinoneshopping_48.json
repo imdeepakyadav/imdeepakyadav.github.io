@@ -489,10 +489,5 @@
       "ad_priority": "0",
       "ad_counter": ""
     }
-  ],
-  "ad_config": [
-    {
-      "is_mediation": "1"
-    }
   ]
 }
