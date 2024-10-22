@@ -44,7 +44,7 @@
     }
   ],
   "banner_slider": [
-	{
+    {
       "banner_link": "https://fktr.in/JI57r6K",
       "banner_title": "Flipkart Clearance Sale",
       "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/clearance.webp",
@@ -56,19 +56,19 @@
       "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/electronics.webp",
       "open_in": "webview"
     },
-	{
+    {
       "banner_link": "https://fktr.in/9wzzc0v",
       "banner_title": "Rakhi Special Styles - From ₹99",
       "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/rakhi.webp",
       "open_in": "webview"
     },
-	{
+    {
       "banner_link": "https://fktr.in/31bnf45",
       "banner_title": "Min. 60% Off on Latest Trends",
       "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/fashion1.webp",
       "open_in": "webview"
     },
-	{
+    {
       "banner_link": "https://fktr.in/sAF4rXH",
       "banner_title": "Flipkart Computer Accessories",
       "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/accessories.webp",
@@ -83,7 +83,7 @@
       "store_open": "webview",
       "store_offer_desc": "Upto 50% off"
     },
-	{
+    {
       "store_title": "Amazon",
       "store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/stores/030724113611Amazon-512.webp",
       "store_url": "https://bitli.in/4zrhtl8",
@@ -169,7 +169,7 @@
     }
   ],
   "electronic": [
-	{
+    {
       "electronic_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/electronics/030824013018apple_iphone.jpg",
       "electronic_name": "Iphone",
       "electronic_url": "https://fktr.in/O1oKBYy",
@@ -490,9 +490,9 @@
       "ad_counter": ""
     }
   ],
-	"ad_config": [
+  "ad_config": [
     {
       "is_mediation": "1"
-    },
-	]
+    }
+  ]
 }
