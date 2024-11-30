@@ -1,0 +1,61 @@
+{
+  "ad_ids": [
+    {
+      "ad_network": "Admob",
+      "unit_type": "Banner",
+      "placement_id": "ca-app-pub-3940256099942544/9214589741",
+      "priority": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "Interstitial",
+      "placement_id": "ca-app-pub-3940256099942544/1033173712",
+      "priority": "1",
+      "counter": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "Native",
+      "placement_id": "ca-app-pub-3940256099942544/2247696110",
+      "priority": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "RewardAd",
+      "placement_id": "ca-app-pub-3940256099942544/5224354917",
+      "priority": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "AppOpenAd",
+      "placement_id": "ca-app-pub-3940256099942544/9257395921",
+      "priority": "1"
+    },
+    {
+      "ad_network": "AppLovin",
+      "unit_type": "Banner",
+      "placement_id": "1bd61e010479c716",
+      "priority": "0"
+    },
+    {
+      "ad_network": "AppLovin",
+      "unit_type": "Interstitial",
+      "placement_id": "197f5ba608c27d44",
+      "priority": "0",
+      "counter": "1"
+    },
+    {
+      "ad_network": "AppLovin",
+      "unit_type": "Native",
+      "placement_id": "697c0a91e00756ca",
+      "priority": "0"
+    }
+  ],
+  "info": [
+    {
+      "type": "random_call_video",
+      "count": 50,
+      "is_show": "yes"
+    }
+  ]
+}
