@@ -4,20 +4,20 @@
       "ad_network": "Admob",
       "unit_type": "Banner",
       "placement_id": "ca-app-pub-3940256099942544/9214589741",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
       "placement_id": "ca-app-pub-3940256099942544/1033173712",
-      "priority": "1",
+      "priority": "0",
       "counter": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
       "placement_id": "ca-app-pub-3940256099942544/2247696110",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
@@ -29,7 +29,7 @@
       "ad_network": "Admob",
       "unit_type": "AppOpenAd",
       "placement_id": "ca-app-pub-3940256099942544/9257395921",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "AppLovin",
