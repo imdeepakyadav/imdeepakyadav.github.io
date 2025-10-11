@@ -222,23 +222,42 @@
       ],
       "dth": [
         {
-          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/Smartphone/030924115327mobile_under7999.jpg",
-          "recharge_store_title": "Jio",
-          "recharge_store_url": "https://bitli.in/II5y0pe",
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/tata_play.png",
+          "recharge_store_title": "Tata Play",
+          "recharge_store_url": "https://www.tataplayrecharge.com/Recharge/QuickRecharge",
           "recharge_store_open": "webview"
         },
         {
-          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/Smartphone/030924115327mobile_under7999.jpg",
-          "recharge_store_title": "Vi",
-          "recharge_store_url": "https://bitli.in/II5y0pe",
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/airtel.png",
+          "recharge_store_title": "Airtel",
+          "recharge_store_url": "https://www.airtel.in/dth-recharge",
           "recharge_store_open": "webview"
         },
         {
-          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/Smartphone/030924115327mobile_under7999.jpg",
-          "recharge_store_title": "BSNL",
-          "recharge_store_url": "https://bitli.in/II5y0pe",
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/dishtv.png",
+          "recharge_store_title": "DishTV",
+          "recharge_store_url": "https://www.dishtv.in/",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/sun_direct.png",
+          "recharge_store_title": "Sun Direct",
+          "recharge_store_url": "https://www.sundirect.in/quick-recharge",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/zing_digital.png",
+          "recharge_store_title": "Zing Digital",
+          "recharge_store_url": "https://www.zingdigital.in/bangla/recharge.html",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/d2h.png",
+          "recharge_store_title": "D2H",
+          "recharge_store_url": "https://www.d2h.com/quick-recharge",
           "recharge_store_open": "webview"
         }
+        
       ]
     }
   ],
