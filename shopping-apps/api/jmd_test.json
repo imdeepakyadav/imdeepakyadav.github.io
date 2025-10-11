@@ -172,21 +172,51 @@
     {
       "mobile": [
         {
-          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/Smartphone/030924115327mobile_under7999.jpg",
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/airtel.png",
+          "recharge_store_title": "Airtel",
+          "recharge_store_url": "https://www.airtel.in/recharge/prepaid/",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/jio.png",
           "recharge_store_title": "Jio",
-          "recharge_store_url": "https://bitli.in/II5y0pe",
+          "recharge_store_url": "https://www.jio.com/selfcare/recharge/mobility/",
           "recharge_store_open": "webview"
         },
         {
-          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/Smartphone/030924115327mobile_under7999.jpg",
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/vi.png",
           "recharge_store_title": "Vi",
-          "recharge_store_url": "https://bitli.in/II5y0pe",
+          "recharge_store_url": "https://www.myvi.in/prepaid/online-mobile-recharge",
           "recharge_store_open": "webview"
         },
         {
-          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/Smartphone/030924115327mobile_under7999.jpg",
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/bsnl.png",
           "recharge_store_title": "BSNL",
-          "recharge_store_url": "https://bitli.in/II5y0pe",
+          "recharge_store_url": "https://portal.bsnl.in/myportal/quickrecharge.do",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/amazon_pay.png",
+          "recharge_store_title": "Amazon Pay",
+          "recharge_store_url": "https://www.amazon.in/hfc/mobileRecharge",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/paytm.png",
+          "recharge_store_title": "Paytm",
+          "recharge_store_url": "https://paytm.com/recharge",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/freecharge.png",
+          "recharge_store_title": "Freecharge",
+          "recharge_store_url": "https://www.freecharge.in/mobile-recharge",
+          "recharge_store_open": "webview"
+        },
+        {
+          "recharge_store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/recharge/mobikwik.png",
+          "recharge_store_title": "Mobikwik",
+          "recharge_store_url": "https://www.mobikwik.com/prepaid-recharge",
           "recharge_store_open": "webview"
         }
       ],
